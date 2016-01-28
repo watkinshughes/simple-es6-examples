@@ -1,5 +1,4 @@
-# understanding-es6
-Simple examples to help you understand ES6
+Simple ES6 examples
 
 __Available__
 
